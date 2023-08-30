@@ -340,13 +340,19 @@ footer>nav {
     font-size: 5vw;
   }
 
+  .pagina_2 {
+    padding-top: 1%;
+  }
+
   .tarjeta_pagina_2 {
     margin: 1%;
     font-size: 3.5vw;
+    padding: 0;
   }
 
   .tarjeta_pagina_2_1{
     font-size: 3.5vw;
+    padding: 0;
   }
 
   #redes_pie_pagina>li>img {
