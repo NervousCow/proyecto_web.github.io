@@ -15,6 +15,8 @@ La página se diseño para se abierta en un celular y luego se hicieron los ajus
 
 En la organización de la página usé CSS Flex y siempre que fue posible medidas de tamaño en refencias (%, vh, vw, em). Para referenciar partes del HTML use muchas clases y algunos ID.
 
+_VISITAR LA PÁGINA HACIENDO CLICK_ [**AQUÍ**](https://nervouscow.github.io/proyecto_web.github.io/)
+
 
 #### **Comentarios finales** ⛰️
 Habiendo decidido encarar un proyecto distinto del propuesto en el curso y por lo tanto si un modelo claro a seguir, me encontre con algunos problemas.
